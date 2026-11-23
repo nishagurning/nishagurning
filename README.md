@@ -1,5 +1,5 @@
 # NISHA GURNING
-### FULL-STACK DEVELOPER · SOFTWARE DEVELOPER
+### FRONTEND DEVELOPER · SOFTWARE DEVELOPER
 
 > **Building ideas into digital experiences.**
 
