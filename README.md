@@ -7,7 +7,7 @@ I'm an Informatics student at **Institut Teknologi Del**, passionate about desig
 
 I enjoy working across the development process — from designing interfaces and building backend systems to integrating APIs, databases, and emerging technologies.
 
-[🌐 Portfolio](https://portfolio-nisha-eta.vercel.app/) · [💻 GitHub](https://github.com/nishagurning)
+[🌐 Portfolio](https://portfolio-nisha-eta.vercel.app/) · [💻 GitHub](https://github.com/nishagurning) . 📧 [Email](damegurning3@gmail.com)
 
 ---
 
