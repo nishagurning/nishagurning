@@ -3,7 +3,7 @@
 
 > **Building ideas into digital experiences.**
 
-I'm an Informatics student at **Institut Teknologi Del**, passionate about designing and developing software that solves real-world problems.
+I'm a Computer Science major at Del Institute of Technology, passionate about designing and developing software that solves real-world problems.
 
 I enjoy working across the development process — from designing interfaces and building backend systems to integrating APIs, databases, and emerging technologies.
 
